@@ -5,6 +5,7 @@
 *** Expected Result: True
 *** Time Complexity = O(n)
 *** Space Complexity = O(1)
+*** Reference Problem:  https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1
 
 
 CLASS zcl_linear_search DEFINITION
