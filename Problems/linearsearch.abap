@@ -11,4 +11,4 @@ METHOD linear_search.
         ENDIF.
     ENDLOOP.
     rv_bool = abap_false.
-   ENDMETHOD.
+   
