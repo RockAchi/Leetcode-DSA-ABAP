@@ -48,3 +48,5 @@ CLASS zcl_binary_search  IMPLEMENTATION.
   ENDMETHOD.
 
 ENDCLASS.
+
+*** If size is not given use this Code to get the Size "DESCRIBE TABLE it_numbers LINES DATA(lv_size)."
