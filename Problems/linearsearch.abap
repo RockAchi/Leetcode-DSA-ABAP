@@ -5,7 +5,7 @@
 *** Expected Result: True
 *** Time Complexity = O(n)
 *** Space Complexity = O(1)
-***
+
 
 CLASS zcl_linear_search DEFINITION
   FINAL
