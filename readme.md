@@ -11,7 +11,7 @@ The Problems
 14 - Longest Common Prefix
 20 - Valid Parentheses
 26 - Remove Duplicates from Sorted Array
-27 - Remove Element
+27 - Remove Element 1 
 35 - Search Insert Position
 58 - Length of Last Word
 283 - Move Zeroes
